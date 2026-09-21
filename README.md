@@ -8,4 +8,6 @@ The September 2026 design refresh adds a clients and projects page, a restrained
 
 Validation: 16 pages checked at 390px and desktop width, with no horizontal page overflow. All 355 local links and image references resolve. Mobile menu opening, closing and Escape were checked. Browser error log was empty. Render publishes the public directory from the main branch automatically.
 
+The latest editorial update adds approved client testimonials beneath paired wellness and fashion campaign photography, a Chris Woodward portrait on About, and refreshed Services and Contact imagery. Testimonials are newly authored from the commissioning client’s supplied accounts and publication approval, not transcriptions of source messages. Updated validation: all 16 pages fit a 320px viewport; primary pages reviewed at 390px and desktop. All 349 local references resolve. Three testimonial states and mobile menu Escape behaviour verified.
+
 Unsure: physical-device behaviour has not been checked. Current retainer status is not asserted by the client grid.
