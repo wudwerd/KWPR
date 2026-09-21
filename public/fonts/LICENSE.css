@@ -1,0 +1,29 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Neue Helvetica Pro 55 Roman by Linotype
+ * URL: https://www.myfonts.com/collections/linotype-foundry
+
+ * Webfont: Linotype Didot Pro Roman by Linotype
+ * URL: https://www.myfonts.com/collections/linotype-foundry
+ 
+ * © 2026 MyFonts Inc. */
+
+
+  
+@font-face {
+  font-family: "LinotypeDidotProRoman";
+  src: url('webFonts/LinotypeDidotProRoman/font.woff2') format('woff2'), url('webFonts/LinotypeDidotProRoman/font.woff') format('woff');
+}
+@font-face {
+  font-family: "NeueHelveticaPro55Roman";
+  src: url('webFonts/NeueHelveticaPro55Roman/font.woff2') format('woff2'), url('webFonts/NeueHelveticaPro55Roman/font.woff') format('woff');
+}
+
