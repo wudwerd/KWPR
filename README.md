@@ -10,4 +10,7 @@ Validation: 16 pages checked at 390px and desktop width, with no horizontal page
 
 The latest editorial update adds approved client testimonials beneath paired wellness and fashion campaign photography, a Chris Woodward portrait on About, and refreshed Services and Contact imagery. Testimonials are newly authored from the commissioning client’s supplied accounts and publication approval, not transcriptions of source messages. Updated validation: all 16 pages fit a 320px viewport; primary pages reviewed at 390px and desktop. All 349 local references resolve. Three testimonial states and mobile menu Escape behaviour verified.
 
+
+Agency positioning update: Home, About, Services and Contact now lead with KW capabilities and client objectives. Chris is introduced once in the About copy. The approved testimonials and black-and-white portrait remain. The four changed pages were checked at 320px, with visual review at mobile and desktop widths.
+
 Unsure: physical-device behaviour has not been checked. Current retainer status is not asserted by the client grid.
