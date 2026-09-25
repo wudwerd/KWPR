@@ -14,3 +14,5 @@ The latest editorial update adds approved client testimonials beneath paired wel
 Agency positioning update: Home, About, Services and Contact now lead with KW capabilities and client objectives. Chris is introduced once in the About copy. The approved testimonials and black-and-white portrait remain. The four changed pages were checked at 320px, with visual review at mobile and desktop widths.
 
 Unsure: physical-device behaviour has not been checked. Current retainer status is not asserted by the client grid.
+
+Design review, 25 September 2026: on desktop the hero lockup now sits in the lower third, clear of both faces (checked at 1024x768, 1280x720, 1440x900 and 2560x1080; mobile unchanged). The homepage leads with a short headline, with the agency description beneath it and larger calls to action. Selected Work on the homepage no longer repeats the two campaign features and ends with an All work link. The work and client grids now sit on the page margin, as other sections do. All 385 local references resolve.
