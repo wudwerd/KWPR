@@ -198,3 +198,8 @@ footer{background:var(--paper);color:var(--ink);border-top:1px solid #e2e2d9;pad
 
 /* Nov 2026: hide the quote controls when every quote is on screen. */
 .testimonial-controls[hidden]{display:none}
+
+/* Nov 2026: one line of recent coverage under the homepage intro. */
+.lead-copy p.press-line{font-size:15px;line-height:1.65;color:var(--soft);max-width:36em}
+.lead-copy p.press-line a{color:var(--ink)}
+.lead-copy p.press-line a:hover{opacity:.55}

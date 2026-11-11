@@ -24,3 +24,7 @@ Editorial update, 11 November 2026: copy and structure only; layout, fonts and i
 The Nada Kamani page credits the cover jewellery to Tiffany & Co., confirmed by Chris on 11 November 2026.
 
 Unsure: the registered office address is not shown in the footer. No new Gary Brecka coverage has been added; that waits on approval from his team.
+
+Coverage update, 11 November 2026: Chris confirmed approval from Gary Brecka's team for new Gary coverage on the site. The homepage intro gains one line of recent coverage, and the Telegraph page gains an "Also this year" entry naming KW PR as global press lead with The Sun, USA Today, Business Insider, the New York Post, Glamour UK and Fox News. Every external link is taken from Chris's own coverage emails to the client. Checked at 320px, 390px and 1440px across all twelve live pages: no overflow, no broken images, no console errors, mobile menu opens.
+
+Unsure: The Sun on Sunday spread and Seven's The Morning Show are named without links, as none is on file. The logo strip is unchanged because no logo files for the new outlets are held.
